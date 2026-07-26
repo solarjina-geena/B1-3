@@ -11,7 +11,7 @@
 [심각도 조건 분기] ← Router/Filter
     ↓ 
 [ Discord 알림]
-    ↓                   
+    ↓                   ![](![alt%20text](image-10-1.png).png)
 [심각도 상 시트 기록]  
 
 ```
@@ -21,7 +21,7 @@
 ### 📍 Make.com 구현 순서
 
 ```
-d:\코디세이\B1-3\image-10.png
+![](![alt%20text](image-10-1.png).png)
 
 모듈 추가
   - Google Forms → Watch Responses (Trigger)
