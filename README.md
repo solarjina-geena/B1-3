@@ -21,27 +21,27 @@
 ### 📍 Make.com 구현 순서
 
 ```
-![alt text](image-10.png)
+d:\코디세이\B1-3\image-10.png
 
 모듈 추가
   - Google Forms → Watch Responses (Trigger)
-  - Router 추가 (심각도))
+  - Router 추가 (심각도)
   - Action 1:  Discord 알림
   - Action 2 : 구글시트 리스트 작성
  
 
 구글폼 제출
-![alt text](image-7.png)
+d:\코디세이\B1-3\image-7.png
 
 구글폼 응답
-![alt text](image-3.png)
+d:\코디세이\B1-3\image-3.png
 
 경로1 심각도 상
   Discord 알림
-![alt text](image-4.png)
+d:\코디세이\B1-3\메이크 디스코드 알람.png
  
-Action 2 구글시트 작성
-image-5.png
+Action 2 심각도 상 구글시트 작성
+d:\코디세이\B1-3\MAKE 심각도 상 구글시트.png
 
 ```
 
@@ -50,13 +50,13 @@ image-5.png
 ### 📍 Zapier 구현 순서
 
 ```
-ZAPIER FLOW 2.jpg
+d:\코디세이\B1-3\ZAPIER FLOW 2.jpg
   - Trigger: Google Forms → 사진수집 구글시트 동일하게 사용, "자피어" 탭추가하여 응답
   - Filter: 조건 설정 (심각도 상)
   - Action 1: Google Sheets
-    d:\코디세이\B1-3\자피어 구글시트2.jpg
+d:\코디세이\B1-3\자피어 구글시트2.jpg
   - Action 2: Discord 알림
-    d:\코디세이\B1-3\ZAPIER 메세지2.jpg
+d:\코디세이\B1-3\ZAPIER 메세지2.jpg
 
 ```
 
@@ -67,7 +67,7 @@ ZAPIER FLOW 2.jpg
 
 ## 비교표
 
-![alt text](image-13.png)
+d:\코디세이\B1-3\MAKE ZAPIER 비교분석.jpg
 ## 장단점 요약
 ### Make
 - 장점: 복잡한 분기 설계 가능, 무료 Ops 넉넉
@@ -118,15 +118,15 @@ ZAPIER FLOW 2.jpg
 □ 도구 선정 이유 작성 : 불량단계로 분리해서 리스트 업 해야하는데,
     make 가 action은  문어발식으로 확장할 수 있어서 선택
 □ 워크플로우 흐름 
-![alt text](image-12.png)
+![alt text](image-12-1.png)
 
 □ 실행 결과
   디스코드
-  d:\코디세이\B1-3\디스코드 메세지.jpg
+![alt text](<메이크 디스코드 알람-1.png>)
   심각도 상
-   d:\코디세이\B1-3\image-5.png
+![alt text](<메이크 심각도 중 하 구글시트-1.png>)
   심각도 중/하
-  d:\코디세이\B1-3\image-6.png
+![alt text](<메이크 심각도 중 하 구글시트-1-1.png>)
 
 □ Trigger 자동 실행 확인
 ```
