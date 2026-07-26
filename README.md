@@ -131,3 +131,10 @@ d:\코디세이\B1-3\MAKE ZAPIER 비교분석.jpg
 □ Trigger 자동 실행 확인
 ```
 
+구글시트 [text](https://docs.google.com/spreadsheets/d/1y9qPMGppHI0Mu6x6hze-oQG3AjvWdpVUp1YR5mkaN3M/edit?usp=sharing)
+
+구글폼 https://forms.gle/Vio9fVNkiPVNhQhKA
+
+메이크 https://eu1.make.com/2159956/scenarios/6607535/edit
+
+자피어 https://zapier.com/editor/374019374/draft
